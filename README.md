@@ -1,47 +1,44 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# Srushti Patel Portfolio
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+Personal portfolio website showcasing my experience in software engineering, robotics, embedded systems, and autonomous systems.
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+## About
 
-# Features
+I'm a Computer Engineering student at Toronto Metropolitan University and Software Lead at TMU WAVE, where I help develop software for an autonomous underwater vehicle competing in RoboSub.
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+## Featured Projects
 
-# Getting Started Locally
+### TMU WAVE AUV Operations
+Developing autonomy, simulation, telemetry, and computer vision systems for TMU WAVE's autonomous underwater vehicle using ArduPilot, MAVLink, Docker, ROS2, and Python.
 
-1. Clone this repository to your local machine:
+### Satellite Tracker
+Real-time 3D satellite tracking platform built with React Three Fiber and live orbital data APIs. Features interactive visualization, satellite search, and orbital data tracking.
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+### ASL AI Assistant
+AI-powered American Sign Language assistant that uses computer vision and machine learning to recognize hand gestures and translate them into text in real time.
 
-2. Move to the cloned directory
+### VHDL Processor Design
+Custom processor implemented in VHDL featuring an ALU, finite state machine, registers, decoder, and seven-segment display output.
 
-   ```bash
-   cd portfolio
-   ```
+## Tech Stack
 
-3. Install dependencies:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Python
+- Docker
+- OpenCV
+- MAVLink
+- ArduPilot
+- ROS2
 
-   ```bash
-   pnpm install
-   ```
+## Contact
 
-4. Start the local Server:
+- GitHub: https://github.com/Srushti-Patel442
+- LinkedIn: https://linkedin.com/in/srushti-patel1
+- Email: srushti.patel@torontomu.ca
 
-   ```bash
-   pnpm dev
-   ```
+## Credits
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+This portfolio was built using an open-source portfolio template and customized with my own projects, experience, and design.
