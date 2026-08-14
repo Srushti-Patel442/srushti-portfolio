@@ -30,7 +30,7 @@ export default function ContactSection() {
           className="text-blue-500 hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
         >
           by email
-        </Link>
+        </Link>{" "}
         and I&apos;ll get back to you as soon as possible.
         </p>
       </div>
