@@ -18,7 +18,7 @@ export const DATA = {
     "Computer Engineering Student | Software Lead @ TMU WAVE | Embedded Systems & Robotics",
   summary:
     "Computer Engineering student at Toronto Metropolitan University with experience in software development, embedded systems, robotics, and computer vision. Currently serving as Software Lead for TMU WAVE's autonomous underwater vehicle team, leading a 5-member software team and developing simulation and autonomy systems using ArduPilot, MAVLink, and Python. Interested in autonomous systems, robotics, and full-stack software engineering.",
-  avatarUrl: "/headshot.jpeg",
+  avatarUrl: "/headshot.JPEG",
   skills: [
     { name: "Java", icon: Java },
     { name: "Python", icon: Python },
