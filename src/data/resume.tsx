@@ -208,4 +208,5 @@ contact: {
       video: "",
     },
     ],
+    hackathons: [],
 } as const;
