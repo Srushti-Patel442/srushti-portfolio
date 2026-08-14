@@ -157,18 +157,27 @@ contact: {
   },
     {
       title: "Satellite Tracker",
-      href: "#",
+      href: "https://github.com/Srushti-Patel442/satellite-tracker",
       dates: "2026",
       active: true,
-     description:
-    "Built a real-time 3D satellite tracking platform using React Three Fiber and live orbital data APIs. Visualizes satellite positions, trajectories, and metadata with interactive search and filtering features.",
+      description:
+        "Built a real-time 3D satellite tracking platform using React Three Fiber, Three.js, and live orbital data from the N2YO API. Visualizes satellite positions, telemetry, ground stations, and orbital data through an interactive Earth model.",
       technologies: [
         "React",
-        "Three.js",
         "TypeScript",
+        "Three.js",
+        "React Three Fiber",
         "Node.js",
+        "Satellite.js",
+        "N2YO API",
       ],
-      links: [],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Srushti-Patel442/satellite-tracker",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
       image: "/satellite.png",
       video: "",
     },
