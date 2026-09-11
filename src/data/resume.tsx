@@ -15,9 +15,9 @@ export const DATA = {
   location: "Toronto, ON",
   locationLink: "https://www.google.com/maps/place/toronto",
   description:
-    "Computer Engineering Student | Software Lead @ TMU WAVE | Embedded Systems & Robotics",
+    "Computer Engineering Student at TMU",
   summary:
-    "Computer Engineering student at Toronto Metropolitan University with experience in software development, embedded systems, robotics, and computer vision. Currently serving as Software Lead for TMU WAVE's autonomous underwater vehicle team, leading a 5-member software team and developing simulation and autonomy systems using ArduPilot, MAVLink, and Python. Interested in autonomous systems, robotics, and full-stack software engineering.",
+    "I'm interested in full-stack development and am eager to learn new tools, experiment with new technologies, and build meaningful software projects.",
   avatarUrl: "/headshot.JPEG",
   skills: [
     { name: "Java", icon: Java },
@@ -28,11 +28,9 @@ export const DATA = {
     { name: "TypeScript", icon: Typescript },
     { name: "Node.js", icon: Nodejs },
 
-    { name: "Docker", icon: Docker },
-
     { name: "OpenCV" },
     { name: "Computer Vision" },
-    { name: "Machine Learning" },
+    { name: "Tensorflow" },
 
     { name: "ArduPilot" },
     { name: "MAVLink"},
@@ -41,11 +39,6 @@ export const DATA = {
     { name: "FPGA" },
 
     { name: "Git", icon: Icons.github },
-
-    { name: "ROS2" },
-    { name: "Raspberry Pi"},
-    { name: "QGroundControl" },
-    { name: "PyMAVLink" },
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
