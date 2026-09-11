@@ -96,7 +96,9 @@ contact: {
       description:
         "Manage customer communications, scheduling, invoicing, and route optimization across 25+ cities. Coordinate weekly technician meetings and maintain 100% client response rates.",
     },
+  ],
 
+  volunteer: [
     {
       company: "Best Buddies",
       href: "#",
