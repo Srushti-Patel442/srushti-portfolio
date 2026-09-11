@@ -112,6 +112,7 @@ contact: {
         "Mentored 20+ students with intellectual disabilities through weekly activities and academic support.",
     },
   ],
+  
   education: [
       {
         school: "Toronto Metropolitan University",
