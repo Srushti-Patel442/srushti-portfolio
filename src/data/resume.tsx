@@ -96,9 +96,7 @@ contact: {
       description:
         "Manage customer communications, scheduling, invoicing, and route optimization across 25+ cities. Coordinate weekly technician meetings and maintain 100% client response rates.",
     },
-  ],
 
-  volunteer: [
     {
       company: "Best Buddies",
       href: "#",
@@ -112,7 +110,7 @@ contact: {
         "Mentored 20+ students with intellectual disabilities through weekly activities and academic support.",
     },
   ],
-  
+
   education: [
       {
         school: "Toronto Metropolitan University",
